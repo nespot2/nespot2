@@ -1,12 +1,12 @@
 ### Hi guys 👋
 
-#### I'm a backend engineer. I'm sorry. something suddenly came up, so I need to step out for work, shouldn’t take long. have a grate day. good bye!!
+I'm a backend engineer. I'm sorry. something suddenly came up, so I need to step out for work, shouldn’t take long. have a great day. goodbye!!
 
 <div align="center">
 
 ## 💻 My Tech Stack:
 
-[![Java, Kotlin, Spring Framework, Mysql, Elasticsearch, Redis, AWS](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,elasticsearch,redis,aws)](https://skillicons.dev)
+[![Java, Kotlin, Spring Framework, Mysql, AWS](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,aws)](https://skillicons.dev)
 
 </div>
 
