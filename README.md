@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi guys 👋
+
+#### I'm a backend engineer. I'm sorry. something suddenly came up, so I need to step out for work, shouldn’t take long. have a grate day. good bye!!
 
 <div align="center">
 
